@@ -10,8 +10,11 @@ public class MainActivity extends AppCompatActivity {
         // 해당 주석 영역 안에 여러분이 기억나는 Android Code를 아무거나 작성해주세요
         // ↓ into Here
 
-	ActionBar ac = getSupportActionBar() ;
-	ab.setTitle("2학년 앱프 1,4반 수업") ;
+	    ActionBar ac = getSupportActionBar() ;
+	    ab.setTitle("2학년 앱프 2,3반 수업") ;
+	    // 내용 수정됨
+        // 
+
         // ↑ into Here
         // 해당 주석 영역 안에 여러분이 기억나는 Android Code를 아무거나 작성해주세요
     }
